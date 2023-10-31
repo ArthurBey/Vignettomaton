@@ -3,7 +3,7 @@
 <head>
     <title>Vignettomaton</title>
 </head>
-<body>
+<body style="background-color: grey">
 <h1>Vignettomaton</h1>
 <p>Provide the 3 format files with the "EU" variation</p>
 <form method="post" action="process.php">
